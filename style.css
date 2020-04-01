@@ -1,0 +1,68 @@
+.w3-container {
+  background-color: lightblue;
+  margin-bottom: 30px;
+}
+
+.right300px {
+  margin-left: 100px;
+}
+
+.center {
+  text-align: center;
+}
+
+.formular {
+  background-color: grey;
+  margin-top: 30px;
+  margin-top: 30px;
+}
+
+.box {
+  display: flex;
+}
+.main {
+  flex: 1 1 auto;
+  background-color: blue;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 860px;
+}
+
+.nav {
+  flex: 1 1 auto;
+  background-color: purple;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 240px;
+}
+
+.form {
+  text-align: center;
+  background-color: grey;
+}
+
+.header {
+  margin-top: 30px;
+  text-align: center;
+  background-color: green;
+  margin-bottom: 30px;
+}
+
+.color {
+  color: blanchedalmond;
+}
+
+.content {
+  background-color: orange;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.foot {
+  background-color: black;
+  text-align: right;
+}
